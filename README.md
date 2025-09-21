@@ -1,8 +1,8 @@
-# # 📊 Megaline Tariff Analysis
+## 📊 Análisis de tarifas de telecomunicaciones
 
-Este proyecto tiene como objetivo analizar el comportamiento de los clientes de **Megaline** y evaluar la rentabilidad de sus dos planes principales: **Surf** y **Ultimate**.  
+Este proyecto tiene como objetivo analizar el comportamiento de los clientes de **Megaline**, una empresa de telecomunicación mobil, y evaluar la rentabilidad de sus dos planes principales: **Surf** y **Ultimate**.  
 
-A través de la integración y procesamiento de diferentes fuentes de datos (usuarios, llamadas, mensajes, navegación en internet y condiciones de los planes), se construye un único conjunto de datos (`master_df`) que consolida el consumo mensual de cada usuario junto con los cargos totales aplicados.
+A través de la integración y procesamiento de diferentes tablas de datos (usuarios, llamadas, mensajes, navegación en internet y condiciones de los planes), se construye un único conjunto de datos (`master_df`) que consolida el consumo mensual de cada usuario junto con los cargos totales aplicados.
 
 ---
 
